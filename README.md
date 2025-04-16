@@ -15,7 +15,7 @@ I followed the tutorial to learn Django and built this project as a part of my p
 
 ---
 
-🧰 Features
+## 🧰 Features
 Remove punctuation
 
 Convert to uppercase
@@ -25,12 +25,12 @@ Remove newlines
 Count characters
 
 Clean, simple UI using HTML/CSS
-
-🪪 License
+---
+## 🪪 License
 This project is open-source and free to use under the MIT License.
 
-✨ Author
+## ✨ Author
 Lavanya Garg
-GitHub Profile
+
 
 
